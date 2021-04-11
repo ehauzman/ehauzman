@@ -2,8 +2,7 @@
 
 # Welcome!
 
-##  Hi there 👋. 
-##  I'm Eldad Hauzman!
+##  Hi there 👋, I'm Eldad Hauzman!
 
 I’m currently working on a great place to join and have fun with sports practicing.
 I’m trying to learn how to create a great system using React and AWS Serverless.
